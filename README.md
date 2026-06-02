@@ -28,11 +28,11 @@ As Head of Technology and AI in the legal sector, I work end to end: I sit with 
 | Project | What it is |
 |---|---|
 | **Dealership Sales Assistant** | Cooperating agents handling a car dealership journey: sales, test drive, financing, negotiation, closing |
-| **Lead Qualification Agent** | Conversational agent with RAG, memory, and tools, qualifying leads over WhatsApp in real time |
-| **RAG Knowledge Base** | Document ingestion with semantic search feeding an agent |
-| **Financial Agent** | Agent for financial operations |
-| **Drive to GitHub Auto-Deploy** | Internal tooling that turns Drive files into automatic commits |
-| **Scraping Toolkit** | Structured data collection from Instagram and term-based search |
+| **[Lead Qualification Agent](https://github.com/GabrielFragaa/lead-qualification-agent)** | Conversational agent with RAG, memory, and tools, qualifying leads over WhatsApp in real time |
+| **[RAG Knowledge Base](https://github.com/GabrielFragaa/rag-knowledge-base)** | Document ingestion with semantic search feeding an agent |
+| **[Financial Agent](https://github.com/GabrielFragaa/financial-agent)** | Agent for financial operations |
+| **[Drive to GitHub Auto-Deploy](https://github.com/GabrielFragaa/drive-to-github-auto-deploy)** | Internal tooling that turns Drive files into automatic commits |
+| **[Scraping Toolkit](https://github.com/GabrielFragaa/scraping-toolkit)** | Structured data collection from Instagram and term-based search |
 
 ## How I work
 
