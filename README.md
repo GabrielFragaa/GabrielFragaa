@@ -12,12 +12,6 @@ I design and run AI agent systems and automations. Multi-agent flows, RAG pipeli
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielFragaa/GabrielFragaa/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielFragaa/GabrielFragaa/output/github-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/GabrielFragaa/GabrielFragaa/output/github-snake.svg">
-</picture>
-
 ---
 
 ## What I build
