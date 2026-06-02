@@ -27,7 +27,7 @@ As Head of Technology and AI in the legal sector, I work end to end: I sit with 
 
 | Project | What it is |
 |---|---|
-| **Dealership Sales Assistant** | Cooperating agents handling a car dealership journey: sales, test drive, financing, negotiation, closing |
+| **[Dealership Sales Assistant](https://github.com/GabrielFragaa/dealership-sales-assistant)** | Cooperating agents handling a car dealership journey: sales, test drive, financing, negotiation, closing |
 | **[Lead Qualification Agent](https://github.com/GabrielFragaa/lead-qualification-agent)** | Conversational agent with RAG, memory, and tools, qualifying leads over WhatsApp in real time |
 | **[RAG Knowledge Base](https://github.com/GabrielFragaa/rag-knowledge-base)** | Document ingestion with semantic search feeding an agent |
 | **[Financial Agent](https://github.com/GabrielFragaa/financial-agent)** | Agent for financial operations |
