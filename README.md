@@ -2,7 +2,7 @@
 
 # Gabriel Fraga
 
-`Software & AI Engineer`
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=Software+%26+AI+Engineer;Multi-agent+systems+and+automation;From+a+business+pain+to+a+working+system)](https://github.com/GabrielFragaa)
 
 I work between strategy and engineering, building AI and automation that changes how a business runs.
 
@@ -42,10 +42,18 @@ As Head of Technology and AI in the legal sector, I work end to end: I sit with 
 
 ## Stack
 
-**AI / LLM** &nbsp; RAG, multi-agent systems, function calling, embeddings
-**Languages** &nbsp; Python, TypeScript, JavaScript, SQL
-**Automation / Data** &nbsp; n8n, PostgreSQL, Supabase, Redis
-**Infrastructure** &nbsp; Docker, Git, APIs and webhooks
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
+
+`AI / LLM` RAG, multi-agent systems, function calling, embeddings &nbsp;·&nbsp; `Data` SQL, vector stores &nbsp;·&nbsp; `Infra` APIs and webhooks
 
 ## Contact
 
